@@ -7,3 +7,11 @@
 #product-gallery a{display:block;max-height:260px;overflow:hidden;border:1px solid #dbe4dd;border-radius:9px;background:#f6f9f6;text-align:center}
 #product-gallery img{max-width:100%;max-height:250px;object-fit:contain;object-position:top center}
 #product-gallery p{font-size:.8rem;color:#5f6c74;margin:6px 0}
+
+/* Launch product actions (2026-10-13) */
+.more.buy{background:var(--navy);border-color:var(--navy);color:#fff;padding:11px 15px;text-align:center;white-space:nowrap}
+.more.buy:hover{background:#152943;border-color:#152943}
+.preview-link{background:transparent;border:0;padding:11px 0 0;color:#365b4e;text-align:left;text-decoration:underline;font-weight:700;font-size:.81rem}
+.preview-link:hover{color:var(--navy)}
+.detail-actions{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-top:12px}
+.detail-actions #dbuy[hidden]{display:none}
