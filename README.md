@@ -1,22 +1,17 @@
-# The Spreadsheet Studio
+# The Spreadsheet Studio — product preview update
 
-**Professional Templates. Smarter Solutions.**
+This package contains a full replacement for the storefront's existing website files, plus authentic screenshots from our two product prototypes.
 
-This repository contains the preview storefront website for The Spreadsheet Studio.
+## Upload to GitHub Pages
 
-## Publishing via GitHub Pages
+1. Extract this ZIP file on your computer.
+2. In https://github.com/thespreadsheetstudio/thespreadsheetstudio.github.io select **Add file → Upload files**.
+3. Upload `index.html`, `styles.css`, `script.js`, and all PNG previews and the free `.xlsx` workbook. All files are at the ZIP root; upload them to the repository root.
+4. Commit your changes. GitHub Pages should deploy automatically when the `main` branch is published from `/(root)`.
+5. Review the live site; confirm pictures display and 'View Actual Preview' opens the screenshots.
 
-1. Upload the contents of this folder (not the enclosing folder and not the ZIP itself) to the repository root of `thespreadsheetstudio/thespreadsheetstudio.github.io`.
-2. Go to repository **Settings → Pages**.
-3. Under **Build and deployment**, select **Deploy from a branch**, branch **main**, folder **/(root)**, then **Save**.
-4. Once deployed, visit `https://thespreadsheetstudio.github.io/`.
+## Sales status
 
-## Files
-- `index.html`: page structure and content
-- `styles.css`: responsive visual design
-- `script.js`: catalog, search, category filters, product previews and navigation
+The two **paid** products are coming-soon prototypes, not yet downloadable purchases. No payment checkout is active. The free sample has a working download link. The $19 product prices are planned test prices, not finalized sale offers. Do not advertise cross-platform compatibility until separately tested.
 
-## Important
-This is a **coming-soon preview**, not an active store. Product previews are illustrations, prices are proposals, and checkout/downloads are not yet configured. Do not imply otherwise until products are completed and payment infrastructure is ready.
-
-Business contact: thespreadsheetstudio@outlook.com
+Our free workbook is included in the ZIP root and can be publicly downloaded immediately. The two paid workbooks are supplied separately in this conversation for testing, not included in this public website ZIP. Do not upload the full paid workbooks to a public GitHub Pages repository before launching checkout; public files would be freely downloadable.
