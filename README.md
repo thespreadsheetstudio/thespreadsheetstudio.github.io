@@ -15,3 +15,4 @@ This package contains a full replacement for the storefront's existing website f
 The two **paid** products are coming-soon prototypes, not yet downloadable purchases. No payment checkout is active. The free sample has a working download link. The $19 product prices are planned test prices, not finalized sale offers. Do not advertise cross-platform compatibility until separately tested.
 
 Our free workbook is included in the ZIP root and can be publicly downloaded immediately. The two paid workbooks are supplied separately in this conversation for testing, not included in this public website ZIP. Do not upload the full paid workbooks to a public GitHub Pages repository before launching checkout; public files would be freely downloadable.
+The Spreadsheet Studio storefront launch.
